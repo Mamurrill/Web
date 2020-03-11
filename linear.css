@@ -41,7 +41,9 @@ h5 {
 .nav li {
   float: right;
 }
-
+.box {
+  float: left;
+}
 .nav li a {
   display: block;
   color: white;
@@ -53,3 +55,4 @@ h5 {
 .nav li a:hover:not(.active) {
   background-color: #AAA;
 }
+

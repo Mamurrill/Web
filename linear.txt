@@ -28,7 +28,7 @@ Greensboro, NC
 </ul>
 <div class="box">
 <form name="form1" action="add.php" method="post">
-<p> Download this predicting analysis example using the button below.
+<p> Download this predicting analysis example using the button below.</p>
 <table width="25%" border="0"></table>
 </form>
 <input name="Submit" type="submit" value="Download" />
@@ -40,7 +40,7 @@ Regression analysis is useful for predicting future values and trends, which is 
 <br /><br />
 Linear regression is appropriate for bankruptcy prediction because it will determine the firm’s profitability by comparing the data over the years. Customers will find bankruptcy prediction beneficial because It is a reliable way to determine future investment and assess the company’s ability to pay any debts owed. This will help to analyze the company’s risk of bankruptcy and allow them to possibly avoid bankruptcy.
 <br /><br />
-Regression methods can also be applied to help evaluate the debt owed to all creditors resulting in ratios to determine the company’s abilities to pay their debts. To calculate linear regression the formula: Y= c+b*x, where ‘y’ is equal to the estimated dependent, ‘c’ is equal to the constant, ‘b’ is equal to the regression coefficient, and ‘x’ is would be the independent variable. 
+Regression methods can also be applied to help evaluate the debt owed to all creditors resulting in ratios to determine the company’s abilities to pay their debts. To calculate linear regression the formula: Y= c+b*x, where ‘y’ is equal to the estimated dependent, ‘c’ is equal to the constant, ‘b’ is equal to the regression coefficient, and ‘x’ is would be the independent variable.</p>
 <br />
 Raw Output
 <br />

@@ -48,6 +48,10 @@ footer h4 {
   float: right;
 }
 
+.box {
+  float: left;
+}
+
 .nav li a {
   display: block;
   color: white;

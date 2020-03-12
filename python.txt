@@ -128,7 +128,7 @@ Lastly, don’t forget to shut down your h2o session:
 
 Conclusion
 
-Awesome, we did a ton of things in this article! First, we discussed the importance of bankruptcy, and how we can apply this model to our own personal portfolio. Next, we loaded the data set of bankrupt Polish companies from Kaggle. Third, we applied logistic regression and xgboost just to get a baseline of how some models perform. Lastly, we automated an even better predictive model through channeling the streamlining powers of h2o!
+Awesome, we did a ton of things in this article! First, we discussed the importance of bankruptcy, and how we can apply this model to our own personal portfolio. Next, we loaded the data set of bankrupt Polish companies from Kaggle. Third, we applied logistic regression and xgboost just to get a baseline of how some models perform. Lastly, we automated an even better predictive model through channeling the streamlining powers of h2o!</p>
 
 <br />
 </body>

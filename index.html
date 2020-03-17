@@ -58,14 +58,15 @@ Greensboro, NC
 <div class="box">
 <p>Upload your document here <br />
 for prediction bancruptcy</p>
-<input type="file" />
-<form name="form1" action="add.php" method="post">
+<form method="post" enctype="multipart/form-data">
+ <input type="file" name="files[]" multiple />
 <table width="25%" border="0"></table>
 </form>
 <br />
-<input name="Submit" type="submit" value="Upload" />
+<input type="submit" value="Upload File" name="submit" />
 <br />
 <br />
+</form>
 <form action="" method="get">
 <p>Select Analysis Method</p>
 <select name="method">
@@ -79,5 +80,6 @@ for prediction bancruptcy</p>
 <footer>
 <h4>&copy Greensboro | 2020</h4>
 </footer>
+<script src="upload.js"></script>
 </body>
 </html>

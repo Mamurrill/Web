@@ -53,7 +53,7 @@ and anytime during a weekend</em>
     </div>
     <div class="row">
     <div class="column">
-      <form action="contact.js">
+      <form action="contact.php" method="post" enctype="multipart/form-data">
         <label for="fname">First Name</label>
         <input type="text" id="fname" name="firstname" placeholder="Your name..">
         <label for="lname">Last Name</label>

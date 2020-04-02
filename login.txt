@@ -58,7 +58,7 @@ Greensboro, NC
           <a href="#forgot">Forgot Password?</a>
         </div>
       </form>
-
+</div>
 
       <form class="sign-up-htm" action="signup.php" method="POST">
 
@@ -119,12 +119,11 @@ Greensboro, NC
         <br />
         <br />
         </div>
+        </div>
       </form>
 
     </div>
   </div>
- </div>
-</div>
   
 </body>
 </html>
